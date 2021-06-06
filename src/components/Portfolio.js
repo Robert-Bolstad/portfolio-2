@@ -23,8 +23,8 @@ const Portfolio = () => {
             date="2020"
             name="Launchprep"
             description="Website about SpaceX and their upcoming launches"
-            technologies="HTML, CSS, Javascript"
-            link="http://launchprep.robertbolstad.com/"
+            technologies="Next.js, Sass"
+            link="https://project-exam-1-spacex.vercel.app/"
           />
           <Card
             img={img2}
